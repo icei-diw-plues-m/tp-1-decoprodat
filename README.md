@@ -3,8 +3,8 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome:Andre L Pinheiro Lopes
-- Matricula:1660870
+- Nome:Andre Luiz Pinheiro Lopes
+- Matricula: 1660870
 
 ## Tela de inspeção com navegador
 
