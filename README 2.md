@@ -8,9 +8,9 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-![Inspeção](tp-1-decoprodat-main/assests/images)
-
-![bash](tp-1-decoprodat-main/bash.png)
+![Inspeçao](assests/images/Inspeção.png)
+![index](c:\Users\proda\OneDrive\Desktop\Introdução interface web\Tarefa\tp-1-decoprodat-main\captura.png)
+![bash](c:\Users\proda\OneDrive\Desktop\Introdução interface web\Tarefa\tp-1-decoprodat-main\bash.png) 
 
 
 ## Orientações sobre Linguagem MarkDown
